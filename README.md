@@ -3,7 +3,7 @@
 ### Je suis un développeur web et mobile au Burkina ayant participé à plusieurs projets à travers le monde.
 ### Faite moi signe pour tout besoins d'aide sur vos projets. Les miens vous sont totalement ouverts pour vos contribution.
 ### Mes competences: le C, le python, le HTML, CSS, le JS;
-<img src="https://www.bing.com/images/search?view=detailV2&ccid=Yu%2bqWfSA&id=9B36BBC8D397313D8ADFC8F7796EFE37BD6A9813&thid=OIP.Yu-qWfSAetSFpn_SlvOEJAHaEy&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.62efaa59f4807ad485a67fd296f38424%3frik%3dE5hqvTf%252bbnn3yA%26riu%3dhttp%253a%252f%252fjeform.fr%252fwp-content%252fuploads%252f2017%252f12%252fCSS3_and_HTML5_logos_and_wordmarks.svg.png%26ehk%3dbFZp%252fRgVzPtINc7xeknix3HEhlA5Zoq%252b9X3rdl%252fQiRU%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=1295&expw=2000&q=html5&simid=608023410937702513&FORM=IRPRST&ck=2C213A02159635EAB049683C256D5B29&selectedIndex=2" height="150" width="120"/>
+!["HTML pour mes front-end!](https://www.bing.com/images/search?view=detailV2&ccid=Yu%2bqWfSA&id=9B36BBC8D397313D8ADFC8F7796EFE37BD6A9813&thid=OIP.Yu-qWfSAetSFpn_SlvOEJAHaEy&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.62efaa59f4807ad485a67fd296f38424%3frik%3dE5hqvTf%252bbnn3yA%26riu%3dhttp%253a%252f%252fjeform.fr%252fwp-content%252fuploads%252f2017%252f12%252fCSS3_and_HTML5_logos_and_wordmarks.svg.png%26ehk%3dbFZp%252fRgVzPtINc7xeknix3HEhlA5Zoq%252b9X3rdl%252fQiRU%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=1295&expw=2000&q=html5&simid=608023410937702513&FORM=IRPRST&ck=2C213A02159635EAB049683C256D5B29&selectedIndex=2 "HTML")
 
 <!--
 **AbdoulSandwidi/AbdoulSandwidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
