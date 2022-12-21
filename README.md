@@ -5,7 +5,8 @@
 ### Mes competences: le C, le python, le HTML, CSS, le JS;
 
 
-![html5](https://user-images.githubusercontent.com/121047277/208944072-975e9935-fcc4-4669-bafd-6ce9acdac0cf.jpg)
+![download](https://user-images.githubusercontent.com/121047277/208945462-9a9908ae-cf17-446b-a04c-039597dfb984.jpg)
+
 
 <!--
 **AbdoulSandwidi/AbdoulSandwidi** is a ✨ _special_ ✨ repository because i![Uploading html5.jpg…]()
