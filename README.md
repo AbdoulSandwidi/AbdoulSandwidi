@@ -1,4 +1,8 @@
-### Hi there 👋
+
+# Bonjour. Je suis Abdoul Wahab SANDWIDI 👋
+### Je suis un développeur web et mobile au Burkina ayant participé à plusieurs projets à travers le monde.
+### Faite moi signe pour tout besoins d'aide sur vos projets. Les miens vous sont totalement ouverts pour vos contribution.
+### Mes competences: le C, le python, le HTML, CSS, le JS
 
 <!--
 **AbdoulSandwidi/AbdoulSandwidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
